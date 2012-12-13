@@ -28,7 +28,7 @@ Move the built framework to *unofficial* framework repo
 
 Commit with facebook-ios-sdk version number and commit that I built from
 
-`git commit -am "Version 3.1.1 built with commit 2a030e795aed343e7614e149a5ebdfa78b223a72"`
+`git commit -am "Version 3.1.1 built with commit facebook/facebook-ios-sdk@2a030e795aed343e7614e149a5ebdfa78b223a72"`
 
 Tag the build with the facebook-ios-sdk version number
 
